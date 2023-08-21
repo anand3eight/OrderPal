@@ -1,0 +1,11 @@
+BILL
+User     : ABC
+Time     : Mon Aug 21 19:35:41 IST 2023
+Email    : abc@gmail.com
+Hotel    : Starbucks
+                Item                 Cost             Quantity                Price
+          Cappuccino                  100                    2                  200
+                                                           GST                 10.0
+                                                               ------------------------
+                                                         Total                210.0
+                                                               ------------------------
